@@ -1,0 +1,14 @@
+* {
+    font-family: "Tahoma", sans-serif;
+}
+h1 {
+    color: #0088cc;
+}
+table {
+    border-collapse: collapse;
+}
+  
+td {
+    border-bottom: 2px solid lightgray;
+    padding: 10px;
+}
